@@ -67,7 +67,7 @@ Focused on cybersecurity operations, threat monitoring, incident response concep
 
 ### Certificate
 
-![Security Analyst Certificate](security-analyst-nsdc.png)
+![Security Analyst Certificate](security-analyst-nsdc.pdf)
 
 ---
 
